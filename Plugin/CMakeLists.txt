@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 3.21)
 
 # info
 project(
-	SF_CreatureComponents
-	VERSION 1.0.0
+	CreatureComponents
+	VERSION 0.0.1
 	LANGUAGES CXX
 )
 

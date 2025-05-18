@@ -1,14 +1,13 @@
 {
     "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
-    "name": "sf-creaturecomponents",
-    "version-string": "1.0.0",
-    "description": "sfse plugin for starfield",
-    "homepage": "https://github.com/Snickerfang/SF_CreatureComponents",
+    "name": "creaturecomponents",
+    "version-string": "0.0.1",
+    "description": "",
+    "homepage": "https://github.com/Snickerfang/sf_creature-components",
     "dependencies": [
         "spdlog",
         "nlohmann-json",
         "simpleini",
-        "tomlplusplus",
         "xbyak"
     ]
 }
